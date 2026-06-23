@@ -53,3 +53,16 @@
 | Indoco Remedies - Cluster Head Sales | 40 | 20 | 22 | 11 |
 | Hindustan Pencils - General Manager Marketing | 45 | 10.5 | 24.75 | 5.775 |
 | **Average** | **46.5** | **15.9** | **25.6** | **8.7** |
+
+---
+
+### Value Delivered at Scale
+
+Across every mandate, the sourcing tool reduces the researcher's hours from an average of **46.5 hrs to 25.6 hrs** (a saving of ~20.9 hrs) and the consultant's hours from **15.9 hrs to 8.7 hrs** (a saving of ~7.2 hrs per mandate).
+
+At **100 mandates**, this translates to:
+- **Researcher: 2,090 hours saved**
+- **Consultant: 720 hours saved**
+- **Total: 2,810 hours saved**
+
+That's the equivalent of over **70 weeks of full-time work** freed up — allowing your team to take on more mandates, focus on higher-value activities like client engagement and candidate experience, and significantly reduce turnaround time per search.
