@@ -58,11 +58,11 @@
 
 ### Value Delivered at Scale
 
-Across every mandate, the sourcing tool reduces the researcher's hours from an average of **46.5 hrs to 25.6 hrs** (a saving of ~20.9 hrs) and the consultant's hours from **15.9 hrs to 8.7 hrs** (a saving of ~7.2 hrs per mandate).
+Across every mandate, the sourcing tool saves an average of **25.6 hrs of researcher time** and **8.7 hrs of consultant time**. A combined saving of **34.3 hours per mandate**.
 
 At **100 mandates**, this translates to:
-- **Researcher: 2,090 hours saved**
-- **Consultant: 720 hours saved**
-- **Total: 2,810 hours saved**
+- **Researcher: 2,560 hours saved**
+- **Consultant: 870 hours saved**
+- **Total: 3,430 hours saved**
 
-That's the equivalent of over **70 weeks of full-time work** freed up — allowing your team to take on more mandates, focus on higher-value activities like client engagement and candidate experience, and significantly reduce turnaround time per search.
+This allows 3P to take on more mandates, focus on higher-value activities like client engagement and candidate experience, and significantly reduce turnaround time per search.
