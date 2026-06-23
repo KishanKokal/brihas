@@ -52,3 +52,4 @@
 | Blue Star - Manufacturing EHS | 51 | 16 | 28.05 | 8.8 |
 | Indoco Remedies - Cluster Head Sales | 40 | 20 | 22 | 11 |
 | Hindustan Pencils - General Manager Marketing | 45 | 10.5 | 24.75 | 5.775 |
+| **Average** | **46.5** | **15.9** | **25.6** | **8.7** |
