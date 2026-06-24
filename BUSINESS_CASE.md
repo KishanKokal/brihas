@@ -1,6 +1,6 @@
 # 3P Consultants - Sourcing Hours
 
-| Mandate | Researcher (Sourcing / HH / Research / FF / Prelim Calls / Networking) | Consultant (Sourcing / HH / Research / FF / Prelim Calls / Networking) | Actual Sourcing Hours (Researcher) | Actual Sourcing Hours (Consultant) |
+| Mandate | Researcher (Sourcing / HH / Research / FF / Prelim Calls / Networking) | Consultant (Sourcing / HH / Research / FF / Prelim Calls / Networking) | Sourcing Hours Offloaded (Researcher) | Sourcing Hours Offloaded (Consultant) |
 |---------|------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------|-------------------------------------|
 | Valtech - CEO | 40 | 16 | 22 | 8.8 |
 | Super Shiv Shakti - Unit Head | 55 | 7 | 30.25 | 3.85 |
