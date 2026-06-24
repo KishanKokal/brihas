@@ -58,7 +58,7 @@
 
 ### Value Delivered at Scale
 
-Across every mandate, the sourcing tool saves an average of **25.6 hrs of researcher time** and **8.7 hrs of consultant time**. A combined saving of **34.3 hours per mandate**.
+Across every mandate, Brihas saves an average of **25.6 hrs of researcher time** and **8.7 hrs of consultant time**. A combined saving of **34.3 hours per mandate**.
 
 At **100 mandates**, this translates to:
 - **Researcher: 2,560 hours saved**
